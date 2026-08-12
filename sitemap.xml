@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://carvan.ar/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://carvan.ar/carnes.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://carvan.ar/pescaderia.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://carvan.ar/fiambres.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://carvan.ar/quesos.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://carvan.ar/almacen.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://carvan.ar/contacto.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <!-- La tienda. Solo la home: el catalogo cambia todo el tiempo y las fichas
+       las descubre Google siguiendo los links, no hace falta listarlas aca. -->
+  <url>
+    <loc>https://carvan.ar/tienda/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>0.9</priority>
+  </url>
+</urlset>

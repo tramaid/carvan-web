@@ -1,0 +1,11 @@
+# ── Editor / SO ──────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+
+# ── Copias de seguridad ──────────────────────────────────────────────────
+# Las deja el script que puso los enlaces a la tienda en pestaña nueva.
+*.bak
+*.orig
